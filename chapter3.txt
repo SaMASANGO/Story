@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 We keep grinding until we win. Onwards forever.
-=======
-We keep grinding until we win. Modified to icnlude aliens, lol.
->>>>>>> alien-plot
+
